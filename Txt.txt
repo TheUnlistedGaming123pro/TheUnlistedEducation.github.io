@@ -1,4 +1,9 @@
+bio{
 Owner = The Unlisted Gaming
 Idea = The Unlisted Gaming
 Started creating on = 22/6/2022
 Group members = No group members :(
+Need permission to promote = True
+Free of cost = True 
+Downloadable content = True
+}
